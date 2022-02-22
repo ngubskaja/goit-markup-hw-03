@@ -340,8 +340,7 @@ img {
 
 /*-----Main portfolio-----*/
 .header {
-  border: 1px solid #ececec;
-  border-top: none;
+  border-bottom: 1px solid #ececec;
 }
 
 .btn {
