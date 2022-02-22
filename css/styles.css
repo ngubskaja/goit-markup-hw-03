@@ -226,8 +226,10 @@ img {
 
 /*-----Team section-----*/
 
-.team {
+.team-site {
   background: #f5f4fa;
+}
+.team {
 }
 
 .team-names {
